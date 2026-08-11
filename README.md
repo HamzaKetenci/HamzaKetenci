@@ -191,14 +191,14 @@ It's about understanding the problem deeply enough to write <b>less, better code
 ## `06` — GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=35C98B&line=35C98B&point=FFFFFF&area=true&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaKetenci&bg_color=0D1117&color=35C98B&line=35C98B&point=FFFFFF&area=true&hide_border=true" width="95%" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=35C98B&icon_color=35C98B&text_color=FFFFFF&rank_icon=github" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=35C98B&fire=35C98B&currStreakLabel=35C98B" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HamzaKetenci&show_icons=true&hide_border=true&bg_color=0D1117&title_color=35C98B&icon_color=35C98B&text_color=FFFFFF&rank_icon=github" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaKetenci&theme=dark&hide_border=true&background=0D1117&ring=35C98B&fire=35C98B&currStreakLabel=35C98B" height="165"/>
 </p>
 
 ---
