@@ -8,7 +8,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hmzktnc-0B2545?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hmzktnc/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HamzaKetenci-0B2545?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/HamzaKetenci/)
 
 </div>
 
@@ -55,7 +55,7 @@ Bilgisayar Mühendisliği öğrencisiyim; yapay zeka, makine öğrenmesi ve back
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hmzktnc-0B2545?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hmzktnc/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HamzaKetenci-0B2545?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/HamzaKetenci/)
 
 </div>
 
