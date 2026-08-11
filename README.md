@@ -1,138 +1,187 @@
-# 👋 Hello, I'm Hamza
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=35C98B&center=true&vCenter=true&width=750&lines=Software+Engineer;Backend+%7C+AI%2FML+Engineer;Building+intelligent+systems;Turning+complex+problems+into+clean+solutions" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0B1110,50:10261E,100:35C98B&section=header" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=35C98B&labelColor=0D1117" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-    <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=flat-square&color=35C98B&labelColor=0D1117" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=35C98B&label=Profile+Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=2800&pause=900&color=35C98B&center=true&vCenter=true&width=800&lines=Software+Engineer;Backend+%7C+AI%2FML;Building+Intelligent+Systems;Engineering+Ideas+Into+Reality" />
+</p>
+
+<p align="center">
+  <sub>Designing reliable software systems and intelligent solutions.</sub>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-0B1110?style=flat-square&logo=spring&logoColor=35C98B" />
+  <img src="https://img.shields.io/badge/AI%2FML-0B1110?style=flat-square&logo=pytorch&logoColor=35C98B" />
+  <img src="https://img.shields.io/badge/Python-0B1110?style=flat-square&logo=python&logoColor=35C98B" />
+  <img src="https://img.shields.io/badge/Java-0B1110?style=flat-square&logo=openjdk&logoColor=35C98B" />
+  <img src="https://img.shields.io/badge/Docker-0B1110?style=flat-square&logo=docker&logoColor=35C98B" />
 </p>
 
 ---
 
-## `01` — About Me
+<div align="center">
+
+## ENGINEERING × INTELLIGENCE
+
+</div>
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-### Building things that matter.
+### Building intelligent systems.
 
-I'm a **Computer Engineer** focused on building reliable software systems and intelligent solutions.
+I'm a **Computer Engineer** focused on software engineering, artificial intelligence, machine learning and data-driven systems.
 
-My work sits at the intersection of:
+I enjoy turning complex problems into systems that are:
 
-* **Backend Engineering**
-* **Artificial Intelligence & Machine Learning**
-* **Data-driven systems**
-* **Scalable software architecture**
-
-I enjoy taking complex problems, breaking them down into systems, and turning them into software that actually works.
+**scalable · reliable · explainable · useful**
 
 </td>
 
-<td width="45%" valign="center">
+<td width="50%" valign="middle" align="center">
 
-```text
-┌──────────────────────────────┐
-│                              │
-│   SOFTWARE ENGINEERING       │
-│            +                 │
-│       ARTIFICIAL INTELLIGENCE│
-│            +                 │
-│       SYSTEM DESIGN          │
-│                              │
-│       ────────────────       │
-│                              │
-│       Build. Learn.          │
-│       Improve. Repeat.       │
-│                              │
-└──────────────────────────────┘
-```
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B1110,50:10261E,100:163B2F&height=170&text=BUILD%20%7C%20LEARN%20%7C%20IMPROVE&fontColor=35C98B&fontSize=22&fontAlignY=55&desc=Software%20%2B%20AI%20%2B%20Systems&descAlignY=75&descSize=14" width="100%" />
 
 </td>
 </tr>
 </table>
 
----
-
-## `02` — What I Do
-
-<p align="center">
-
-|     | Focus                                                                            |
-| :-: | -------------------------------------------------------------------------------- |
-|  ⚙️ | **Backend Engineering** — Java, Spring Boot, REST APIs, distributed systems      |
-|  🧠 | **AI / Machine Learning** — Deep Learning, Computer Vision, predictive modeling  |
-|  📊 | **Data & Intelligence** — Scikit-learn, LightGBM, CatBoost, model optimization   |
-|  🧩 | **System Design** — scalable, maintainable and production-oriented architectures |
-
-</p>
+<br>
 
 ---
 
-## `03` — Tech Stack
+<div align="center">
 
-<p align="center">
+## WHAT I BUILD
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### ⚙️
+
+### BACKEND
+
+Spring Boot  
+Microservices  
+REST APIs  
+Apache Kafka  
+Redis  
+PostgreSQL
+
+</td>
+
+<td align="center" width="33%">
+
+### 🧠
+
+### AI / ML
+
+Deep Learning  
+Computer Vision  
+NLP  
+Model Optimization  
+Explainable AI  
+Ensemble Learning
+
+</td>
+
+<td align="center" width="33%">
+
+### 📊
+
+### DATA
+
+Feature Engineering  
+Predictive Modeling  
+Data Analysis  
+Cross Validation  
+Model Evaluation  
+Data Pipelines
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<div align="center">
+
+## TECHNOLOGY
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,cs,js" />
+
+<br><br>
 
 ### Backend & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=java,spring,redis,kafka,docker,postgresql,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=spring,dotnet,flask,postgres,mysql,redis,kafka,docker,git,linux" />
+
+<br><br>
 
 ### AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 
-<br/><br/>
+<br><br>
 
-<img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
-<img src="https://img.shields.io/badge/LightGBM-0D1117?style=for-the-badge&logo=lightgbm&logoColor=35C98B" />
-<img src="https://img.shields.io/badge/CatBoost-0D1117?style=for-the-badge&logo=catboost&logoColor=FFCC00" />
-<img src="https://img.shields.io/badge/SHAP-0D1117?style=for-the-badge&logoColor=35C98B" />
-<img src="https://img.shields.io/badge/LIME-0D1117?style=for-the-badge&logoColor=35C98B" />
+<img src="https://img.shields.io/badge/Scikit--learn-0B1110?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
+<img src="https://img.shields.io/badge/LightGBM-0B1110?style=for-the-badge&logoColor=35C98B" />
+<img src="https://img.shields.io/badge/CatBoost-0B1110?style=for-the-badge&logoColor=35C98B" />
+<img src="https://img.shields.io/badge/YOLOv8-0B1110?style=for-the-badge&logoColor=35C98B" />
+<img src="https://img.shields.io/badge/SHAP-0B1110?style=for-the-badge&logoColor=35C98B" />
+<img src="https://img.shields.io/badge/LIME-0B1110?style=for-the-badge&logoColor=35C98B" />
+<img src="https://img.shields.io/badge/OpenCV-0B1110?style=for-the-badge&logo=opencv&logoColor=35C98B" />
 
-</p>
+</div>
 
 ---
 
-## `04` — Selected Work
+<div align="center">
+
+## SELECTED WORK
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧬 AI Cancer Detection
+### 🧬 Multimodal Cancer Detection
 
-**Deep Learning · Computer Vision · Explainable AI**
+**AI · Computer Vision · Healthcare**
 
-AI-assisted cancer detection system combining **ultrasound imaging and blood-data features**.
+A multimodal decision-support system combining **ultrasound images and blood biomarkers**.
 
-* EfficientNetV2S
-* Transfer Learning
-* Explainable AI
-* SHAP / LIME / Score-CAM
-* **93.2% accuracy**
+`EfficientNetV2S` `TensorFlow` `Flask`  
+`SHAP` `LIME` `Score-CAM`
+
+**93.2% ultrasound classification accuracy**
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🚀 UAV Emergency Response
+### 🚦 Intelligent Traffic Safety
 
-**Artificial Intelligence · Autonomous Systems**
+**Computer Vision · Deep Learning**
 
-AI-supported UAV emergency-response concept developed as a technology project with **patent application**.
+Real-time traffic analysis using multiple specialized models for vehicle and driver analysis.
 
-* Intelligent decision support
-* Autonomous response
-* Computer vision
-* Real-world deployment perspective
+`YOLOv8` `PyTorch` `OpenCV`  
+`CLIP` `Docker`
+
+**6 specialized vision models**
 
 </td>
 </tr>
@@ -140,32 +189,31 @@ AI-supported UAV emergency-response concept developed as a technology project wi
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ Backend Systems
+### 🧬 Genetic Variant Classification
 
-**Java · Spring Boot · Kafka · Redis**
+**Machine Learning · Explainable AI**
 
-Production-oriented backend development experience involving messaging, service architectures and scalable APIs.
+A panel-based pathogenic/benign classification system for genetic variants.
 
-* Spring Boot
-* Apache Kafka
-* Redis
-* PostgreSQL
-* Docker
+`LightGBM` `CatBoost` `Scikit-learn`  
+`SHAP` `Ensemble Learning`
+
+**Stacking + threshold optimization**
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🏆 Competitions & Research
+### 🤖 Semantic Mentoring Platform
 
-**TÜBİTAK · TEKNOFEST · AI**
+**Backend · NLP · Semantic Search**
 
-Developing technology under competition and research environments, from machine-learning pipelines to deployable software systems.
+Backend and database architecture for a national mentoring platform with semantic search capabilities.
 
-* TÜBİTAK projects
-* TEKNOFEST finalist
-* AI competitions
-* Research & experimentation
+`.NET` `PostgreSQL`  
+`SentenceTransformers` `BGE-M3`
+
+**Semantic search + API architecture**
 
 </td>
 </tr>
@@ -173,93 +221,114 @@ Developing technology under competition and research environments, from machine-
 
 ---
 
-## `05` — Engineering Philosophy
+<div align="center">
 
-<p align="center">
+## ENGINEERING EXPERIENCE
 
-> **"Complexity is inevitable. Poor design is not."**
+</div>
 
-</p>
+<table>
+<tr>
+<td width="25%" align="center">
 
-<p align="center">
-I believe good engineering is not about writing more code.<br/>
-It's about understanding the problem deeply enough to write <b>less, better code.</b>
-</p>
+### 01
 
----
+**BACKEND**
 
-## `06` — GitHub Activity
+</td>
+<td width="75%">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaKetenci&bg_color=0D1117&color=35C98B&line=35C98B&point=FFFFFF&area=true&hide_border=true" width="95%" />
-</p>
+**Java · Spring Boot · Microservices**
 
-<br/>
+Backend development in a production-oriented service architecture, including service communication with **Apache Kafka**, caching with **Redis**, and centralized service-health monitoring.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamzaKetenci&show_icons=true&hide_border=true&bg_color=0D1117&title_color=35C98B&icon_color=35C98B&text_color=FFFFFF&rank_icon=github" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaKetenci&theme=dark&hide_border=true&background=0D1117&ring=35C98B&fire=35C98B&currStreakLabel=35C98B" height="165"/>
-</p>
+</td>
+</tr>
 
----
+<tr>
+<td width="25%" align="center">
 
-## `07` — Currently
+### 02
 
-```text
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│  → Building backend systems                          │
-│  → Exploring AI & intelligent applications           │
-│  → Improving system design & architecture             │
-│  → Learning something new every day                   │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
-```
+**AI / ML**
 
----
+</td>
+<td width="75%">
 
-## `08` — Beyond Code
+**Machine Learning · Computer Vision · Data Science**
 
-<p align="center">
+Experience across the complete ML workflow: dataset preparation, feature engineering, model training, evaluation, optimization, explainability and deployment.
 
-🏆 **Technology Competitions**
-  •  
-🧠 **AI Research**
-  •  
-🎓 **Mentoring**
-  •  
-🚀 **Building Products**
+</td>
+</tr>
 
-</p>
+<tr>
+<td width="25%" align="center">
 
-I've also had the opportunity to lead technology communities, organize technical events and mentor students interested in software and artificial intelligence.
+### 03
+
+**MENTORING**
+
+</td>
+<td width="75%">
+
+**Technical Mentoring · Community · Leadership**
+
+Experience mentoring students in software and artificial intelligence while coordinating technology-focused community activities.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `09` — Let's Connect
+<div align="center">
 
-<p align="center">
+## GITHUB ACTIVITY
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=35C98B"/>
-</a>
+<br>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=35C98B"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaKetenci&bg_color=0B1110&color=35C98B&line=35C98B&point=FFFFFF&area=true&hide_border=true" width="95%" />
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
+<br><br>
 
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=HamzaKetenci&show_icons=true&hide_border=true&bg_color=0B1110&title_color=35C98B&icon_color=35C98B&text_color=FFFFFF&rank_icon=github" height="170" />
 
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaKetenci&theme=dark&hide_border=true&background=0B1110&ring=35C98B&fire=35C98B&currStreakLabel=35C98B" height="170" />
 
-<p align="center">
-  <sub>Designed with intention. Built with curiosity.</sub>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:12372A,100:35C98B&height=100&section=footer" width="100%"/>
-</p>
+---
+
+<div align="center">
+
+## ENGINEERING PHILOSOPHY
+
+<br>
+
+### **Build less. Think deeper. Engineer better.**
+
+<br>
+
+<sub>
+Good engineering is not about adding complexity.<br>
+It's about making complexity disappear.
+</sub>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### Currently exploring
+
+`System Design` · `AI Engineering` · `Backend Architecture` · `Intelligent Systems`
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:35C98B,50:10261E,100:0B1110&section=footer" width="100%" />
+
+</div>
